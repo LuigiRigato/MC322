@@ -1,7 +1,7 @@
 # MC322
 
 # Aluno
-* `<Luigi Mello Rigato>`
+* `Luigi Mello Rigato`
 
 # Curso
-* `<Engenharia de Computação>`
+* `Engenharia de Computação`
