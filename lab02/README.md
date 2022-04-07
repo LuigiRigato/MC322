@@ -1,5 +1,5 @@
-# Lab02 - Estruturas de Programação Java
+# Lab02 - Do C para o Java
 
-## Notebook 2 sobre Estruturas de Programação
+## Notebook sobre Java Estruturas
 
-> [notebook02](notebook/lab02-java-estruturas-ra247248.ipynb)
+> [notebook](notebook/lab02-java-estruturas-ra247248.ipynb)
